@@ -1,0 +1,7 @@
+vaderSentiment
+feedparser
+newspaper3k
+gunicorn==20.1.0
+Flask==2.1.0
+nltk
+pandas
